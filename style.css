@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 .border{
     border: solid 5px lightblue;
@@ -34,10 +35,11 @@
     padding: 20px;
 }
 .border{
-    /* width: 200px; 
-    height: 200px; */
+    width: 200px; 
+    height: 200px;
     /* max-width:200px;
     max-height:200px; */
       /* min-width:20px;
       min-height:20px; */
+      
 }
